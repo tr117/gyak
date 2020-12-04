@@ -1,0 +1,2 @@
+# gyak
+gyakorlás 1.
